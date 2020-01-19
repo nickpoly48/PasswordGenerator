@@ -1,2 +1,8 @@
-This is a Password Generating application that will allow you to select from characters and different lengths to have a password automatically generated for you that meets your criteria provided with your selections.
+This is a Password Generating application that will allow you to generate a new password based on criteria you select.
+
+Listed below you will see links to a picture of what it will look like as well as the links to get to the Password Generator.
+
+![generator](example_generator.png)
+
+
 
